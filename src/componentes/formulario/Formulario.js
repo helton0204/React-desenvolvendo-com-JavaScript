@@ -18,7 +18,7 @@ const Formulario = ({times, cadastrarColaborador}) => {
         setNome('');
         setCargo('');
         setImagem('');
-        setTime('Front End');
+        setTime('');
     }
 
     return(
